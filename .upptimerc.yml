@@ -4,13 +4,16 @@ repo: uptime # The name of this repository
 
 sites:
   - name: Rustlog
-    url: https://logs.xyqra.com
+    url: $RUSTLOG
   - name: Shortener
-    url: https://s.xyqra.com
+    url: $SHORTENER
+    expectedStatusCodes:
+      - 200
+      - 404
   - name: API
-    url: https://api.xyqra.com
+    url: $API
   - name: Opengist
-    url: https://p.xyqra.com
+    url: $OPENGIST
   - name: Status
     url: https://status.xyqra.com
   - name: Mail
