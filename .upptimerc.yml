@@ -18,7 +18,7 @@ sites:
     url: https://status.xyqra.com
   - name: Mail
     url: $MAILSERVER
-  - name: Catbox
+  - name: Catbox (not mine)
     url: https://catbox.moe
 
 assignees: # Users to assign downtime issues (optional)
