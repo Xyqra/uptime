@@ -1,7 +1,7 @@
 url: https://catbox.moe
-status: up
-code: 200
-responseTime: 854
-lastUpdated: 2025-11-09T13:20:57.757Z
+status: down
+code: 502
+responseTime: 3306
+lastUpdated: 2025-11-09T14:30:53.824Z
 startTime: 2025-10-24T18:46:58.127Z
 generator: Upptime <https://github.com/upptime/upptime>
