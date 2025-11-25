@@ -12,12 +12,8 @@ sites:
       - 404
   - name: API
     url: $API
-  - name: Opengist
-    url: $OPENGIST
   - name: Status
     url: https://status.xyqra.com
-  - name: Mail
-    url: $MAILSERVER
   - name: Catbox (not mine)
     url: https://catbox.moe
 
