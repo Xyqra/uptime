@@ -76,17 +76,17 @@
     "url": "https://catbox.moe",
     "icon": "https://icons.duckduckgo.com/ip3/catbox.moe.ico",
     "slug": "catbox-not-mine",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1085,
-    "timeDay": 3299,
-    "timeWeek": 1735,
-    "timeMonth": 1257,
-    "timeYear": 1085,
+    "time": 1145,
+    "timeDay": 3716,
+    "timeWeek": 1966,
+    "timeMonth": 1328,
+    "timeYear": 1145,
     "dailyMinutesDown": {}
   }
 ]
