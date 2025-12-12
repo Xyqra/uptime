@@ -22,7 +22,7 @@
     "url": "$SHORTENER",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "shortener",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -84,7 +84,7 @@
     "uptimeYear": "100.00%",
     "time": 1089,
     "timeDay": 2364,
-    "timeWeek": 1506,
+    "timeWeek": 789,
     "timeMonth": 984,
     "timeYear": 1089,
     "dailyMinutesDown": {}
